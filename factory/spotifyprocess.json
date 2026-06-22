@@ -1,0 +1,15 @@
+{
+	"name": "spotifyprocess",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "67680df1-7ccb-494f-9d15-1dfef04426b3",
+		"tenantId": "bf82b7c3-0b9b-4237-ae97-df84141d337d"
+	}
+}
